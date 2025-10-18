@@ -5,7 +5,7 @@ set -e
 
 # Default values
 DTYPE="bf16"
-GPU_INDEX="1"
+GPU_INDEX="0"
 HF_DATASET="muellerzr/consumer-mamf"
 
 # Parse command line arguments
